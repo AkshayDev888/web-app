@@ -42,3 +42,17 @@ For more information about using Node.js on Heroku, see these Dev Center article
 - [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
 - [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
 - [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+
+# Node.js Sample Web Application
+
+## Steps Followed:
+1. Cloned a public Node.js sample application.
+2. Created a new repository under my GitHub/GitLab account.
+3. Linked my local clone to the new repository.
+4. Modified the homepage message in `index.js`.
+5. Committed and pushed the changes.
+
+## How to Run the App:
+```sh
+npm install  # Install dependencies
+node index.js  # Run the server
